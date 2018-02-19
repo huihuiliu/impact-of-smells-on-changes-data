@@ -1,0 +1,12 @@
+projectName,Download URL,MinLOC,MaxLOC,AverageLOC,MinClassNum,MaxClassNum,AverageClassNum,MinMethodNum,MaxMethodNum,AverageMethodNum
+camel,https://github.com/apache/camel.git,31024,922668,377018,489,14207,6029,3381,86007,35303
+cassandra,https://github.com/apache/cassandra.git,39783,269050,138140,348,1743,895,3614,26125,12783
+derby,https://github.com/apache/derby.git ,257358,614909,496429,1434,3010,2517,18276,42837,34706
+elasticsearch,https://github.com/elastic/elasticsearch.git,110555,667898,336976,1209,5331,3119,10526,53439,28781
+guava,https://github.com/google/guava.git,8540,475004,158978,63,2961,1017,751,54514,19140
+hbase,https://github.com/apache/hbase.git,4806,833428,397442,21,2765,1374,348,74743,34918
+hibernate,https://github.com/hibernate/hibernate-orm.git,353840,615963,548872,4641,8584,7630,38000,65936,58629
+hive,https://github.com/apache/hive.git,99921,923678,592007,762,4410,2448,8439,74614,39463
+lucene,https://github.com/apache/lucene-solr.git,346901,950719,763090,2901,6546,4907,24396,62754,43888
+pig,https://github.com/apache/pig.git,136344,269972,225141,839,1760,1461,8794,18760,15365
+qpid,https://github.com/apache/qpid.git,144379,285734,209984,1456,2976,2098,12870,30453,20853
